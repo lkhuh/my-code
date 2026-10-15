@@ -1,0 +1,2 @@
+This is a sample text file for practicing Python file I/O.
+Keep sample data beside the script that reads it.
